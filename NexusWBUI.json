@@ -1,0 +1,181 @@
+	
+	{
+	"ServerName":"[ZA] Nexus Ark ",
+	"ButtonTxt1":"Rules",
+	"ButtonTxt2":"Rules",
+	"ButtonTxt3":"Settings",
+	"ButtonTxt4":"",
+	"ButtonTxt5":"",
+	"LinkButtonTxt1":"Website",
+	"LinkButtonTxt2":"Discord",
+	"LinkButtonTxt3":"",
+	"LinkButtonTxt4":"",
+	"LinkButtonTxt5":"",
+	"LinkButton1":"https://nexusark.premiumark.net/",
+	"LinkButton2":"https://discord.gg/W8tyQZySM3",
+	"Link1Button3":"",
+	"Link2Button3":"",
+	"Link3Button3":"",
+	"Link4Button3":"",
+	"Link1Button4":"",
+	"Link2Button4":"",
+	"Link3Button4":"",
+	"Link4Button4":"",
+	"Link1Button5":"",
+	"Link2Button5":"",
+	"Link3Button5":"",
+	"Link4Button5":"",
+	"Tab1Panelcount":1,
+	"Tab2Panelcount":1,
+	"Tab3Panelcount":1,
+	"Tab4Panelcount":1,
+	"Tab5Panelcount":1,
+	"BackgroundTab1":0,
+	"BackgroundTab2":10,
+	"BackgroundTab3":1,
+	"BackgroundTab4":0,
+	"BackgroundTab5":0,
+	"Background3Color":"",
+	"FontColorButtons":"112, 38, 162",
+	"FontColorServerName":"0, 0, 0",
+	"FontColorTabTitles":"0, 0, 0",
+	"FontColorTabText":"0, 0, 0",
+	"UseSteamBrowserLink1":false,
+	"UseSteamBrowserLink2":false,
+	"Tab1Title1":"Rules",
+	"Tab1Title2":"",
+	"Tab1Title3":"",
+	"Tab2Title1":"",
+	"Tab2Title2":"",
+	"Tab2Title3":"",
+	"Tab3Title1":"Settings",
+	"Tab3Title2":"",
+	"Tab3Title3":"",
+	"Tab4Title1":"",
+	"Tab4Title2":"",
+	"Tab4Title3":"",
+	"Tab5Title1":"",
+	"Tab5Title2":"",
+	"Tab5Title3":"",
+	"Tab1Text1":"Welcome to Nexus Ark!
+
+South Africa's number 1 Ark Survival Evolved PvP cluster. 
+
+/help
+/cryo
+/fill
+/neuterall
+/claim
+/giveengrams
+/shop
+/kit
+",
+	"Tab1Text2":"",
+	"Tab1Text3":"",
+	"Tab2Text1":"MESHING
+Building in locations that cannot fit your player and/or require access through means of (sleeping bag, pelagornis) will result in a tribe structure wipe and ban. Locations that enemy tribes cant access through means of walking into are not allowed.
+Raiding other players through means of meshing (teleporting into mesh, exploiting terrain) will result in a permanent ban.
+3RD PARTY SOFTWARE
+Any use of software that gives unfair advantages such as ESP, AIMBOT and GODMODE ect will result in a permanent ban.
+CAGE LIMIT
+You are only allowed to cage other players for 4 hours, if not let go this will result in warnings and or a tribe structure wipe if not adhered to.
+DUPING AND OTHER EXPLOITS
+Any exploits that break the game and cause harm to the server are not allowed, punishment is up to admin discretion.
+OVER CAPPING TURRETS
+Over capping turrets is not allowed, stick to the slot limit in game, it is the players responsibility to make sure all turrets only fill the given slot limit, warning or bans will be given to offenders, severity matters and goes into admin discretion.
+STRUCTURE LAG
+Lagging the server intentionally through the means of picking up and resnapping foundations/structures constantly, or any other related method will result in a ban (length determined by admin based on severity and implications)
+TEAMING AND ALLIANCES
+Alliances are on the server.
+Tribes are allowed to team with any other tribe(s) and help defend/raid together without any restrictions.",
+	"Tab2Text2":"",
+	"Tab2Text3":"",
+	"Tab3Text1":"Rates
+Farming: 10x
+Experience: 10x
+Taming: 25x
+Breeding 25x
+Egg hatch: 25x
+Gestation: 25x
+Raising: 25x
+Mission points: 2x
+Loot quality: 1x
+Difficulty: 5x
+Crop growth: 10x
+Element: 1x
+Adjustments
+Tribe limit: none
+Alliances: False
+Dino/Player weight: 5x
+Cage time limit: 4 hours
+Loot tables
+White drop
+Artifacts
+
+Green drop
+Tributes
+
+Blue drop
+Consumables
+
+Purple/Yellow/Red drop
+Saddles
+Armour
+Weapons
+
+OSD
+Mek
+Tek saddles
+Tek armour
+Tek weapons
+Late game weapons
+Late game saddles
+
+Lava golem
+Tek armour
+Tek weapons
+Late game weapons
+Late game saddles
+Element (350-500)
+Mods
+Structures Plus
+Binoculars
+WBUI
+WshopUI
+Better horde
+Better missions
+Anti Mesh
+RG+ Stack
+Pick up gun
+Neuter gun
+Configurable bosses
+APIs
+ArkShop
+AntiMesh
+Items+
+Crosschat
+Discordlogger
+TribeManager
+Permissions
+AutoEngrams
+CustomChatCommands
+Dinoutilities
+Imprint
+PointsLimiter
+Spyglass
+Advert
+Suicide
+TurretManager
+DestroyItems
+GameConfigManager
+DiscordLeaderboard
+",
+	"Tab3Text2":"",
+	"Tab3Text3":"",
+	"Tab4Text1":"",
+	"Tab4Text2":"",
+	"Tab4Text3":"",
+	"Tab5Text1":"",
+	"Tab5Text2":"",
+	"Tab5Text3":""
+	}
